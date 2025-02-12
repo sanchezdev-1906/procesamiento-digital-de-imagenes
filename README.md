@@ -1,5 +1,3 @@
-## Procesamiento Digital de Imagenes
+## Tarea 1 - Ejercicios de Logica
 
-Repositorio de trabajos y tareas realizadas en la materia de PDI.
-
-Los trabajos se encuentran en las demas ramas.
+Resolucion de 5 ejercicios de los 7 planteados para repasar el lenguaje python.
