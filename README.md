@@ -1,5 +1,3 @@
-## Procesamiento Digital de Imagenes
+## Primer Parcial Procesamiento Digital de Imagenes
 
-Repositorio de trabajos y tareas realizadas en la materia de PDI.
-
-Los trabajos se encuentran en las demas ramas.
+Resolucion del Examen Practico y Teorico del Primer Parcial de la materia.
